@@ -1,0 +1,2 @@
+# myblog
+learn by idrail
